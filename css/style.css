@@ -1,0 +1,22 @@
+.logo {
+  width: 70%;
+  padding: 20px;
+}
+
+.line {
+  padding-bottom: 3px;
+  padding-top: 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.smallLine {
+  padding-bottom: 1px;
+  padding-top: 2px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.smallPadding {
+  padding: 30px;
+}
